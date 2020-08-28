@@ -4,8 +4,9 @@ TO DO:
 - [ ] task 1
 - [ ] task 2
 ..
+_________________________________
 
-TEMPLATE POST
+##TEMPLATE POST
 ### Date
 - [x] task 3 is done
 
