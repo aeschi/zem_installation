@@ -6,7 +6,7 @@ TO DO:
 ..
 _________________________________
 
-##TEMPLATE POST
+## TEMPLATE POST
 ### Date
 - [x] task 3 is done
 
