@@ -1,10 +1,16 @@
 # DOCUMENTATION
 
 TO DO:
-- [ ] task 1
-- [ ] task 2
-...
+- [ ] TD Basics
+- [ ] Boid System in TD
+- [ ] Projection Mapping from TD
+- [ ] Projector setup
+
+
 _________________________________
+
+### 01.09.20 
+- [x] touchdesigner tutorials
 
 ### 31.08.20 
 - [x] research touchdesigner tutorials
