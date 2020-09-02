@@ -9,7 +9,7 @@ TO DO:
 _________________________________
 
 ### 02.09.20 
-- [x] Projector test for distance (1.1m distance for 50" projectiom) Epson TW-650
+- [x] Projector test for distance (1.1m distance for 50" projection) Epson TW-650
 - [x] Projector test for black and wood surface -> black works better
 
 <img src="https://i.imgur.com/2mLZfZm.jpeg" width="450px"> <img src="https://i.imgur.com/YqZbnZ3.jpeg" width="450px">
