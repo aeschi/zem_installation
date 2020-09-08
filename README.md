@@ -8,6 +8,10 @@ TO DO:
 - [ ] Kinect interaction
 _________________________________
 
+### 08.09.20 
+- [x] more touchdesigner tutorials
+- [ ] should the installation be audio reactive as well? Water soundscape..
+
 ### 07.09.20 
 - [x] more touchdesigner tutorials
 
