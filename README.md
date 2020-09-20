@@ -52,13 +52,13 @@ _________________________________
 
 We opened up the range of topics to any Creative Technologies topic from the first two terms. Hence, next to the topics from CC1, CC2, PGS and BAG, you can also refer to a topic from the workshops, such as Physical Computing or XR.
 
-The result of this project needs to be polished but it doesn’t need to be a finished project. It can also be a milestone of a larger project idea on which you want to continue to work on later on, it can be an exploration of a specific topic or technique or it could also be an extension of your orientation project. In your documentation please briefly reflect on your motivation and concept, your execution and the archived results.
+The result of this project needs to be __polished__ but it doesn’t need to be a finished project. It can also be a __milestone__ of a larger project idea on which you want to continue to work on later on, it can be an exploration of a specific topic or __technique__ or it could also be an extension of your orientation project. In your documentation please __briefly reflect on your motivation and concept, your execution and the archived results.__
 
 ## Time
 
 Make sure to plan all aspects of the project (idea and concept, implementation and documentation) into the overall time frame.
 
-By default, the project should be manageable in less than 80h, hence less than two weeks. We reduced the time requirement a bit to make up for the additional time you spend on the orientation project this term. However, if you have a great idea and the time to work on it and want to spend more than 80h on the project, you can use ECTS from the upcoming term in which you have about 18 ECTS to fill freely. This must be discussed with us beforehand or the very latest during the project. We will not give you additional ECTS afterwards.
+By default, the project should be manageable in __less than 80h__, hence less than two weeks. We reduced the time requirement a bit to make up for the additional time you spend on the orientation project this term. However, if you have a great idea and the time to work on it and want to spend more than 80h on the project, you can use ECTS from the upcoming term in which you have about 18 ECTS to fill freely. This must be discussed with us beforehand or the very latest during the project. We will not give you additional ECTS afterwards.
 
 ## Grading
 
@@ -75,10 +75,10 @@ The grading criteria are
 
 The submission requirements are
 
-* a representation of the project that let's us test/experience it, e.g. a build, a website, a video, etc.,
-* at least two representative images (png),
-* access to all source files, and
-* the filled out text template (see below) as documentation.
+* a representation of the project that let's us test/experience it, e.g. a build, a website, a __video__, etc.,
+* at least two representative __images__ (png),
+* access to all __source files__, and
+* the filled out text template (see below) as __documentation__.
 
 The deadline is September 30th.
 
