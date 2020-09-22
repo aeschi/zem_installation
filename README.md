@@ -1,14 +1,41 @@
 # DOCUMENTATION
 
-TO DO:
+**to do installation**
 
-- [ ] [Submission requirements](#Submission)
-- [ ] Boid/ Particle System in TD
-- [ ] Projection Mapping from TD
-- [ ] Projector setup
-- [ ] Kinect/Leap interaction
+- [ ] improve script
+- [ ] add second target (interaction + random)
+- [ ] sound 
+- [ ] water soundscape
+- [ ] mask for the structure 
+- [ ] more boids
+- [ ] atmospheric particles 
+- [ ] improve visuals 
+- [ ] test on 'coral desk'
+- [ ] projector setup 
+- [ ] leap motion setup 
+
+**to do documentation**
+
+- [ ] abstract
+- [ ] concept/meaning behind
+- [ ] workload 
+- [ ] what did we learn (with pictures)
+- [ ] steps chronological order
+- [ ] photos of coral desk 
+- [ ] behind the scenes
+- [ ] prototype photos and videos 
+- [ ] Improvement
+- [ ] reflection and discussion
+- [ ] lessons learned
+
+- [ ] [submission requirements](#Submission)
+
 _________________________________
-
+### 22.09.
+- [X] first prototype
+- [X] Boids movement 
+- [X] Hand interaction with leap motion 
+- [X] mask placeholder for the projection
 
 ### 08.09. - 20.09.20
 - [x] more touchdesigner tutorials
