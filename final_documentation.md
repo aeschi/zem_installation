@@ -26,13 +26,34 @@ In this prototype the human influence on nature is represented through the hand 
 
 ### Wooden Structure
 
+MDF wooden board 
+
+- test first cut (image)
+
 ### Projection Mapping
 
 <img src="https://i.imgur.com/2mLZfZm.jpeg" width="450px"> <img src="https://i.imgur.com/YqZbnZ3.jpeg" width="450px">
 
 ### TouchDesigner
+
+- Results of touchdesigner tutorials (images)
+
 ### Boid System
+
+- formula
+The Boids Rules
+- Rule 1: Boids try to fly towards the centre of mass of neighbouring boids. (rule1 - cohesion - always travel towards center of group)
+- Rule 2: Boids try to keep a small distance away from other objects (including other boids). (rule2 - avoid other boids)
+- Rule 3: Boids try to match velocity with near boids.
+- go towards target
+- Limiting the speed
+- Bounding the position
+
 ### Interaction
+
+-(interaction sketches)
+- Leap motion
+
 ### Testing
 
 
