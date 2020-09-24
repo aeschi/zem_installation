@@ -3,8 +3,8 @@
 **to do installation**
 
 - [ ] improve script
-- [ ] add second target (interaction + random)
-- [ ] sound 
+- [x] add second target (interaction + random)
+- [x] sound 
 - [ ] water soundscape
 - [ ] mask for the structure 
 - [ ] more boids
