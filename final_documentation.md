@@ -11,16 +11,27 @@ Through this installtion we want to bring attention to the influence humans have
 
 human influence on environment . . climate change . . oil catastophy . . 
 
-In this prototype the human influence on nature is represented through the hand interaction of the viewer, which leads to the movement of the fishes in the the opposite direction, giving an impression of fleeing. More complex forms of interaction are mention in section [Future work](#Future_work). 
+In this prototype the human influence on nature is represented through the hand interaction of the viewer, which leads to the movement of the fishes in the the opposite direction, giving an impression of fleeing. More complex forms of interaction are mention in section [Future work](#Future_Work). 
 
 ## Implementation
 
 **How did you do it? Pipeline, execution details, etc.**
 
-### Idea development
-### Wooden structure
+### Idea Development
+
+<img src="https://i.imgur.com/NNzbiLh.png" width="900px">
+
+
+<img src="https://i.imgur.com/sv5iPi8.png" width="900px">
+
+### Wooden Structure
+
+### Projection Mapping
+
+<img src="https://i.imgur.com/2mLZfZm.jpeg" width="450px"> <img src="https://i.imgur.com/YqZbnZ3.jpeg" width="450px">
+
 ### TouchDesigner
-### Boid system
+### Boid System
 ### Interaction
 ### Testing
 
@@ -29,7 +40,7 @@ In this prototype the human influence on nature is represented through the hand 
 
 **Documentation of your result(s), e.g. images.**
 
-### First prototype
+### First Prototype
 
 ## Project Reflection & Discussion
 
@@ -39,7 +50,7 @@ In this prototype the human influence on nature is represented through the hand 
 
 **What worked well, what didn't work and why? In which context does your project stand? Future Work?**
 
-### Future_work 
+### Future_Work 
 
 - more organic form of boids (viuals)
 - particle system 
