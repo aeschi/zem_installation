@@ -2,31 +2,56 @@
 
 ## Abstract
 
-What was the whole project about, what did you archive...
+**What was the whole project about, what did you archive...**
 
 ## Concept
-
-Motivation, idea, vision, creative / artistic / technical concept
 
 The main concept for this project was to do an interactive installation, which concists of a wooden structure as projection surface. The projected visuals are abstract schools of fish. When the audience approaches the installation the fishes react according to the hand movement of the user. 
 Through this installtion we want to bring attention to the influence humans have on the environment, in this case on coral reefs and it's inhabitants. This is also depicted in the form of the structure, which resemebles coral reefs, more specifically Acropora Hyacinthus coral plates. 
 
+human influence on environment . . climate change . . oil catastophy . . 
+
 In this prototype the human influence on nature is represented through the hand interaction of the viewer, which leads to the movement of the fishes in the the opposite direction, giving an impression of fleeing. More complex forms of interaction are mention in section [Future work](#Future_work). 
-
-
 
 ## Implementation
 
-How did you do it? Pipeline, execution details, etc.
+**How did you do it? Pipeline, execution details, etc.**
+
+### Idea development
+### Wooden structure
+### TouchDesigner
+### Boid system
+### Interaction
+### Testing
+
 
 ## Results
 
-Documentation of your result(s), e.g. images.
+**Documentation of your result(s), e.g. images.**
+
+### First prototype
 
 ## Project Reflection & Discussion
 
+- invested time on learning touchDesigner
+- underestimated the complexity of touchdesigner 
+- wanted to have more progress than just a prototype
+
+**What worked well, what didn't work and why? In which context does your project stand? Future Work?**
+
 ### Future_work 
 
-What worked well, what didn't work and why? In which context does your project stand? Future Work?
+- more organic form of boids (viuals)
+- particle system 
+- sound
+- water reflection
+- improved interaction 
+- oil layer 
+- change of movement according to the oil density 
 
 ## Lessons Learned
+
+- TouchDesigner
+- Build a project from conception to implementation 
+- projection mapping (surface test, color, scale and scope)
+- Interaction through leapmotion 
