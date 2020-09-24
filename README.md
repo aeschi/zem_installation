@@ -9,7 +9,7 @@
 - [ ] mask for the structure 
 - [ ] more boids
 - [ ] atmospheric particles 
-- [ ] improve visuals 
+- [x] improve visuals 
 - [ ] test on 'coral desk'
 - [ ] projector setup 
 - [ ] leap motion setup 
