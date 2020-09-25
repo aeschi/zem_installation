@@ -21,6 +21,8 @@ In this prototype the human influence on nature is represented through the hand 
 
 ### Idea Development
 
+For brainstorming and to make a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalising our concept as well as for resource management.
+
 <img src="https://i.imgur.com/NNzbiLh.png" width="900px">
 
 
@@ -33,6 +35,8 @@ MDF wooden board
 - test first cut (image)
 
 ### Projection Mapping
+
+In order to get optimal visual results we tested the projection on different surfaces and color. The best results we achieved were on dark surfaces, hence it was decided to paint the MDF boards in black paint. 
 
 <img src="https://i.imgur.com/2mLZfZm.jpeg" width="450px"> <img src="https://i.imgur.com/YqZbnZ3.jpeg" width="450px">
 
