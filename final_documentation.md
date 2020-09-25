@@ -40,6 +40,10 @@ MDF wooden board
 
 - Results of touchdesigner tutorials (images)
 
+<img src="img/tutorial1.png" width="900px">
+
+<img src="img/tutorial2.gif" width="450px">
+
 ### Boid System
 
 - formula
