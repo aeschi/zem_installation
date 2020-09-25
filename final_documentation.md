@@ -38,7 +38,9 @@ MDF wooden board
 
 ### TouchDesigner
 
-- Results of touchdesigner tutorials (images)
+In order to get familiar with TouchDesigner we followed [several tutorials](https://www.youtube.com/watch?v=Z_WfldiO6HI&list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz), that included working with different operators such as TOP, CHOP, SOP, MAT, DAT, and COMP. Different types of operators are used for different purposes and classes, for example, **TOPs** are texture operators and work with 2D imagery (pixels), videos, 2D shapes, and text. **CHOP** are channel operators and work with data/signals. **SOP** are surface operators and are used for 3D geometry. **MAT** are material operators and **DAT** are used for scripts. texts and GLSL. Last but not least are COMP, they are a combination of several operators and include elements such as camera, light, animation, etc. 
+
+Following are some results of the tutorials: 
 
 <img src="img/tutorial1.png" width="900px">
 
