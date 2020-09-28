@@ -48,9 +48,9 @@ MDF wooden board
 
 <img src="img/coral_board_montage-3.jpg" width="400px"> <img src="img/coral_board_montage-4.jpg" width="400px">
 
-<img src="img/coral_board_montage-5.jpg" width="400px"> <img src="img/coral_board_montage-6.jpg" width="400px">
+<img src="img/coral_board_montage-6.jpg" width="400px"> <img src="img/coral_board_montage-7.jpg" width="400px">
 
-<img src="img/coral_board_montage-7.jpg" width="400px">
+<img src="img/coral_board_montage-5.jpg" width="400px">
 
 ### Projection Mapping
 
