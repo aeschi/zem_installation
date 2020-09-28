@@ -11,6 +11,8 @@ Through this installtion we want to bring attention to the human impact on marin
 
 Human activities affect marine ecosystems as a result of pollution, overfishing, oil spills, and acidification, which lead to the extinction of marine species and have major effect on the biodiversity of marine life forms. The effect on the ecosystem can be noticed through the rapid worldwide decline in coral reefs. Coral reefs are the most diverse marine ecosystems on earth, giving shelter to thousands of animal species. They account for one-third of all biodiversity in the oceans and are vital to humanity. As a result of human influence, over [50 percent](http://www.secore.org/site/corals/detail/why-coral-reefs-need-our-help.23.html) of the world’s coral reefs have died in the last 30 years and up to 90 percent may die within the next century. 
 
+#### Acropora Hyacinthus coral plates
+
 <img src="http://www.coralsoftheworld.org/media/images/0036_C04_01.jpg" width="400px"> <img src="http://www.coralsoftheworld.org/media/images/0036_C01_01.jpg" width="446px">
 
 In this prototype the human influence on nature is represented through the hand interaction of the viewer, which leads to the movement of the fishes in the the opposite direction, giving an impression of fleeing. More complex forms of interaction are mention in section [Future work](#Future_Work). 
@@ -28,11 +30,27 @@ For brainstorming and to make a list of resources we used [Miro board](https://m
 
 <img src="https://i.imgur.com/sv5iPi8.png" width="900px">
 
+#### Concept sketch 
+
+<img src="img/ConceptSketch.png" width="400px">
+
 ### Wooden Structure
 
 MDF wooden board 
 
-- test first cut (image)
+#### First cut test
+
+<img src="img/coral_test_1.jpg" width="400px"> <img src="img/coral_test_2.jpg" width="400px">
+
+#### Assembly
+
+<img src="img/coral_board_montage-2.jpg" width="400px"> <img src="img/coral_board_montage-1.jpg" width="400px">
+
+<img src="img/coral_board_montage-3.jpg" width="400px"> <img src="img/coral_board_montage-4.jpg" width="400px">
+
+<img src="img/coral_board_montage-5.jpg" width="400px"> <img src="img/coral_board_montage-6.jpg" width="400px">
+
+<img src="img/coral_board_montage-7.jpg" width="400px">
 
 ### Projection Mapping
 
@@ -47,6 +65,10 @@ In order to get familiar with TouchDesigner we followed [several tutorials](http
 Some of our results from the tutorials are as following:
 
 <img src="img/tutorial1.png" width="900px">
+
+<img src="img/tutorial_1.png" width="900px">
+
+<img src="img/tutorial_2a.jpg" width="400px"> <img src="img/tutorial_2a.jpg" width="400px"> 
 
 <img src="img/tutorial2.gif" width="450px"> <img src="img/tutorial22.gif" width="328px">
 
@@ -65,6 +87,10 @@ The Boids Rules
 
 -(interaction sketches)
 - Leap motion
+
+#### Interaction Sketch 
+
+<img src="img/InteractionSketch.jpg" width="400px">
 
 ### Testing
 
@@ -92,6 +118,10 @@ The Boids Rules
 - improved interaction 
 - oil layer 
 - change of movement according to the oil density 
+
+<img src="img/moods_oil_1.JPG" width="400px"> <img src="img/moods_oil_2.JPG" width="400px">
+
+<img src="img/moods_oil_3.JPG" width="400px"> <img src="img/moods_oil_4.JPG" width="400px">
 
 ## Lessons Learned
 
