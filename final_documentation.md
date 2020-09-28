@@ -32,7 +32,7 @@ For brainstorming and to make a list of resources we used [Miro board](https://m
 
 #### Concept sketch 
 
-<img src="img/ConceptSketch.png" width="400px">
+<img src="img/ConceptSketch.png" width="450px">
 
 ### Wooden Structure
 
@@ -90,7 +90,7 @@ The Boids Rules
 
 #### Interaction Sketch 
 
-<img src="img/InteractionSketch.jpg" width="400px">
+<img src="img/InteractionSketch.jpg" width="450px">
 
 ### Testing
 
