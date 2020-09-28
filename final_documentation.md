@@ -83,6 +83,12 @@ The Boids Rules
 - Limiting the speed
 - Bounding the position
 
+#### Boundarties for projection
+
+Instead of using an external projection mapping software we decided to make a mask in TouchDesigner and use it as a projection area. The movement of the boids are restricted to this mask. The direction of movement changes if the fishes get closer to the boundaries. 
+
+<img src="touchdesigner/shape_mask_bgwhite_black.png" width="400px"> <img src="touchdesigner/shape_mask_inverted.png" width="450px">
+
 ### Interaction
 
 -(interaction sketches)
