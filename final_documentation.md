@@ -78,6 +78,8 @@ Some of our results from the tutorials are as following:
 
 <img src="img/tutorial2.gif" width="450px"> <img src="img/tutorial22.gif" width="328px">
 
+For this prototype we used different operators, for example for the shape of the fishes we used Sops operators, for scripting DAT, for redering and postprocessing we used Tops, for target position, movement, and for audio we used Chop operators. 
+
 ### Boid System
 
 - formula
@@ -88,6 +90,14 @@ The Boids Rules
 - go towards target
 - Limiting the speed
 - Bounding the position
+
+#### Movement of boids 
+
+- boids follow a sphere that has moves randomly around the area
+- effect obtained by using noise function/node
+- target is sphere as long as no leapMOtion is connected but if leapmotion is connected the target switches to the users' hand. 
+- obtained by using different nodes for instance math node for mapping the hand movement to the target position 
+- switch for switching the target, which is then addressed in the script 
 
 #### Boundarties for projection
 
