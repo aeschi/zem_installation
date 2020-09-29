@@ -103,7 +103,7 @@ The shape of one single fish is a simple sphere. We use a grid and a copy node i
 
 #### Boid_System
 
-The boid system we implemented is based on the pseudocode from http://www.kfish.org/boids/pseudocode.html. Which is an explanation of standard algorithm as described by Reynolds. The System follows following 5 rules. 
+The boid system we implemented is based on the pseudocode from http://www.kfish.org/boids/pseudocode.html. Which is an explanation of standard algorithm as described by Reynolds. The system follows following 5 rules. 
 
 The Boids Rules
 - Rule 1: Cohesion - boids try to fly towards the centre of mass of neighbouring boids.
