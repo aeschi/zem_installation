@@ -111,8 +111,7 @@ The Boids Rules
 - Rule 3: Allignment - Boids try to match velocity with near boids.
 - Rule 4: Boundaries - Bounding the position of the boids
 - Rule 5: Target - Boids move towards a target
-
-We also limit the speed.
+- We also limit the speed.
 
 Some of the values can be manipulated in the node system of touchDesigner, for instance the amount of cohesion, seperation, allignment, speed limit, target scale, boundary scale, and the minumum distance the boids should have. 
 
