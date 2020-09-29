@@ -109,12 +109,25 @@ Instead of using an external projection mapping software we decided to make a ma
 
 #### Interaction
 
--(interaction sketches)
-- Leap motion
-
-#### Interaction Sketch 
+The main interaction for this prototype is hand movement which influences the direction of the fishes. The user can steer the fish swarms by moving the hand sideways or forward/backwards. In touchDesigner we used the leap motion node to get leap motion input. It has several channels such as hand detection or each finger. For the prototype We decided to use finger input since the values for finger detection are more precise. We used select and math node to map the x axis and z axis values of the finger to the targer x and y position. Target is either random or if there is a leap motion input it's the finger position. The switch between the target is realized through switch node and python scripting. 
 
 <img src="img/InteractionSketch.jpg" width="450px">
+
+<img src="img/tocuhdesigner_interaction.png" width="800px">
+
+```python
+	leap = op('leapmotion')[2]
+	switchTarget = op('switch1')
+
+	# if hand is detected switch target to hand
+	if leap.eval() != 0:
+		switchTarget.par.indexfirst = 1
+		# invert direction on x axis
+		target = np.array([-(targetOP[0].eval()),targetOP[1].eval(),targetOP[2].eval()])
+	else:
+		switchTarget.par.indexfirst = 0
+		target = np.array([targetOP[0].eval(),targetOP[1].eval(),targetOP[2].eval()])
+```
 
 ### Testing
 
