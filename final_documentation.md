@@ -135,6 +135,8 @@ What really worked well for this project was the team work. We distributed the w
 
 Future goals for this project include having more organic and complex visuals for the fishes. We also want to add atmospheric particles to achieve the looks similar to an ecosystem with many organisms. Furthermore, we want to integrate not only ambient sound but also sound that reacts to the interaction and the movement of the fishes. As initially planned, we would also like to have water reflections in the room where the installation takes place in order to created underwater ambience. Regarding the interactivity we want to implement more complex forms of interaction. One idea would be to expand the hand interaction. Fish swarms would not only react to the hand movement but the movement would also generate an oil film like sustance that expands over the coral board. The fish would then decrease in vilocity according to the desity of the oil. The final results would then be fish swarms frozen in a dense sustance trasforming the installation from a vivid and dynamic looking environment to a still life. Through this we want to bring attention to the many oil spills occuring often in our oceans and endagering wildlife and are a threat to whole ecosystems. We want to emphesize this trasformation though the change of colors, starting with more organic colors and movig on to artificial (neon) color palette of the oil. 
 
+Following are some images for the concept of the oil film. 
+
 <img src="img/moods_oil_1.JPG" width="400px"> <img src="img/moods_oil_2.JPG" width="400px">
 
 <img src="img/moods_oil_3.JPG" width="400px"> <img src="img/moods_oil_4.JPG" width="400px">
