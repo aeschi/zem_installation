@@ -7,9 +7,10 @@ Authors: Zainab Tariq, Anna Eschenbacher
 Collaborators: Marie Scharnagl
 
 Date: 30.09.2020
-___
 
 <img src="img/banner.jpg"> 
+
+___
 
 - [Abstract](#Abstract)
 - [Concept](#Concept)
