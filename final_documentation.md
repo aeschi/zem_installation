@@ -9,6 +9,8 @@ Collaborators: Marie Scharnagl
 Date: 30.09.2020
 ___
 
+<img src="img/coral_board_prototype-4.jpg" width="900px"> 
+
 - [Abstract](#Abstract)
 - [Concept](#Concept)
 - [Implementation](#Implementation)
@@ -24,8 +26,6 @@ ___
 - [Results](#Results)		
 - [Project Reflection & Discussion](#Project_Reflection_and_Discussion)
 - [Lessons Learned](#Lessons_Learned)
-
-<img src="img/coral_board_prototype-4.jpg" width="900px"> 
 
 ## Abstract
 
