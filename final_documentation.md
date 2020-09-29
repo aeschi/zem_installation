@@ -13,7 +13,7 @@
 		- [Boundarties for projection](#Boundarties_for_projection)
 		- [Interaction](#Interaction)
 - [Results](#Results)		
-- [Project Reflection & Discussion](#Project_Reflection_&_Discussion)
+- [Project Reflection & Discussion](#Project_Reflection_and_Discussion)
 - [Lessons Learned](#Lessons_Learned)
 ## Abstract
 
@@ -149,7 +149,7 @@ The main interaction for this prototype is hand movement which influences the di
 
 ### First Prototype
 
-## Project_Reflection_&_Discussion
+## Project_Reflection_and_Discussion
 
 What really worked well for this project was the team work. We distributed the workload accordingly and each team member had their specific tasks. Although, most of the time we worked together in solving issues or problems. So far, the coral structure is one part of the project that is furthest developed and is in the state as planned. Through this project we could gain basic knowledge in touchDesigner. We not only learned the basic components and functionality of touchDesigner but also what kind of projects can be implemented with it. However, we underestimated the time required to get to know touchDesigner. We invested a large amount of time in following tutorial and experimenting with different visuals. Initally we had planned to develop the project further than just a first prototype but this was not possible due to time constraints and hardware issues, e.g leap motion didn't work with windows due to SDK issues. 
 
