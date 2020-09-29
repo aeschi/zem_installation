@@ -7,6 +7,12 @@
 	- [Wooden Structure](#Wooden_Structure)
 	- [Projection Mapping](#Projection_Mapping)
 	- [TouchDesigner](#TouchDesigner)
+		- [Network](#Network)
+		- [Boid System](#Boid_System)
+		- [Movement of boids](#Movement_of_boids)
+		- [Boundarties for projection](#Boundarties_for_projection)
+		- [Interaction](#Interaction)
+- [Results](#Results)		
 - [Project Reflection & Discussion](#Project_Reflection_&_Discussion)
 - [Lessons Learned](#Lessons_Learned)
 ## Abstract
@@ -102,13 +108,13 @@ The Boids Rules
 - Limiting the speed
 - Bounding the position
 
-#### Movement of boids 
+#### Movement_of_boids 
 
 As mentioned above the boids follow a sphere that has moves randomly around the area. This effect is obtained by using noise node that is mapped to the transform position of the target. The target is sphere as long as the leap mOtion has no input. If the leap motion is connected the target switches to the users' hand. This functionality is implemented in the script. To get a smooth movement of the boids we used the math node for mapping the right values of the hand input to target's transform.  
 
 <img src="img/toucdesigner_target.png" width="800px">
 
-#### Boundarties for projection
+#### Boundarties_for_projection
 
 Instead of using an external projection mapping software we decided to make a mask in TouchDesigner and use it as a projection area. The movement of the boids are restricted to this mask. The direction of movement changes if the fishes get closer to the boundaries. 
 
