@@ -109,7 +109,7 @@ Instead of using an external projection mapping software we decided to make a ma
 
 <img src="img/touchdesigner_mask.png" width="800px">
 
-### Interaction
+#### Interaction
 
 -(interaction sketches)
 - Leap motion
@@ -129,21 +129,11 @@ Instead of using an external projection mapping software we decided to make a ma
 
 ## Project Reflection & Discussion
 
-- invested time on learning touchDesigner
-- underestimated the complexity of touchdesigner 
-- wanted to have more progress than just a prototype
-
-**What worked well, what didn't work and why? In which context does your project stand? Future Work?**
+What really worked well for this project was the team work. We distributed the workload accordingly and each team member had their specific tasks. Although, most of the time we worked together in solving issues or problems. So far, the coral structure is one part of the project that is furthest developed and is in the state as planned. Through this project we could gain basic knowledge in touchDesigner. We not only learned the basic components and functionality of touchDesigner but also what kind of projects can be implemented with it. However, we underestimated the time required to get to know touchDesigner. We invested a large amount of time in following tutorial and experimenting with different visuals. Initally we had planned to develop the project further than just a first prototype but this was not possible due to time constraints and hardware issues, e.g leap motion didn't work with windows due to SDK issues. 
 
 ### Future_Work 
 
-- more organic form of boids (viuals)
-- particle system 
-- sound
-- water reflection
-- improved interaction 
-- oil layer 
-- change of movement according to the oil density 
+Future goals for this project include having more organic and complex visuals for the fishes. We also want to add atmospheric particles to achieve the looks similar to an ecosystem with many organisms. Furthermore, we want to integrate not only ambient sound but also sound that reacts to the interaction and the movement of the fishes. As initially planned, we would also like to have water reflections in the room where the installation takes place in order to created underwater ambience. Regarding the interactivity we want to implement more complex forms of interaction. One idea would be to expand the hand interaction. Fish swarms would not only react to the hand movement but the movement would also generate an oil film like sustance that expands over the coral board. The fish would then decrease in vilocity according to the desity of the oil. The final results would then be fish swarms frozen in a dense sustance trasforming the installation from a vivid and dynamic looking environment to a still life. Through this we want to bring attention to the many oil spills occuring often in our oceans and endagering wildlife and are a threat to whole ecosystems. We want to emphesize this trasformation though the change of colors, starting with more organic colors and movig on to artificial (neon) color palette of the oil. 
 
 <img src="img/moods_oil_1.JPG" width="400px"> <img src="img/moods_oil_2.JPG" width="400px">
 
