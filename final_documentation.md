@@ -1,6 +1,6 @@
 # Documentation
 
-ZEM (working title)
+**ZEM** (*working title*)
 
 Authors: Zainab Tariq, Anna Eschenbacher
 
