@@ -103,14 +103,18 @@ The shape of one single fish is a simple sphere. We use a grid and a copy node i
 
 #### Boid_System
 
-- formula
+The boid system we implemented is based on the pseudocode from http://www.kfish.org/boids/pseudocode.html. Which is an explanation of standard algorithm as described by Reynolds. The System follows following 5 rules. 
+
 The Boids Rules
-- Rule 1: Boids try to fly towards the centre of mass of neighbouring boids. (rule1 - cohesion - always travel towards center of group)
-- Rule 2: Boids try to keep a small distance away from other objects (including other boids). (rule2 - avoid other boids)
-- Rule 3: Boids try to match velocity with near boids.
-- go towards target
-- Limiting the speed
-- Bounding the position
+- Rule 1: Cohesion - boids try to fly towards the centre of mass of neighbouring boids.
+- Rule 2: Seperation - Boids try to keep a small distance away from other objects (including other boids).
+- Rule 3: Allignment - Boids try to match velocity with near boids.
+- Rule 4: Boundaries - Bounding the position of the boids
+- Rule 5: Target - Boids move towards a target
+
+We also limit the speed.
+
+Some of the values can be manipulated in the node system of touchDesigner, for instance the amount of cohesion, seperation, allignment, speed limit, target scale, boundary scale, and the minumum distance the boids should have. 
 
 #### Movement_of_boids 
 
