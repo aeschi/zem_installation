@@ -143,7 +143,4 @@ Following are some images for the concept of the oil film.
 
 ## Lessons Learned
 
-- TouchDesigner
-- Build a project from conception to implementation 
-- projection mapping (surface test, color, scale and scope)
-- Interaction through leapmotion 
+As mentioned above we underestimated the time needed for leaarning touchDesigner. TouchDesigner is a super powerful tool which can be used for a huge variety of applications. It has a complex structure of operators that requires time and experience to get proficient in. Never underestimate the time required to debug technical issues. We had some problems for instance with connecting the leap motion to windows. We learned that when planning on doing a physical installation it is good to collaborate with people who have an expertice in building wooden structures. It was great help having Marie in our team. So far this project has proven to be a good opportunity to learn touchDesigner, since both of us always wanted to get work with it. 
