@@ -174,9 +174,7 @@ The main interaction for this prototype is hand movement which influences the di
 
 <img src="img/coral_board_prototype-1.jpg" width="450px"> <img src="img/coral_board_prototype-2.jpg" width="450px">
 
-<img src="img/coral_board_prototype-3.jpg" width="450px"> <img src="img/coral_board_prototype-4.jpg" width="450px">
-
-<img src="img/coral_board_prototype-5.jpg" width="450px"> <img src="img/coral_board_prototype-6.jpg" width="450px">
+<img src="img/coral_board_prototype-4.jpg" width="450px"> <img src="img/coral_board_prototype-12.jpg" width="450px">
 
 <img src="img/coral_board_prototype-7.jpg" width="450px"> <img src="img/coral_board_prototype-9.jpg" width="450px"> 
 
