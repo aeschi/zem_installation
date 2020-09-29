@@ -23,7 +23,7 @@ In this prototype the human influence on nature is represented through the hand 
 
 ### Idea Development
 
-For brainstorming and to make a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalising our concept as well as for resource management.
+From the very beginning it was clear to us that we wanted to address the topic of climate change or human impact on different ecosystems. For brainstorming and to make a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalising our concept as well as for resource management. After the intital brainstorming sesssion we decided on implementing visuals in TouchDesigner, since both of us wanted to get in touch with this tool. For the interaction we thought of using either Kinect or LeapMotion. 
 
 <img src="https://i.imgur.com/NNzbiLh.png" width="900px">
 
@@ -32,11 +32,15 @@ For brainstorming and to make a list of resources we used [Miro board](https://m
 
 #### Concept sketch 
 
+This is the first concept sketch we came up with. The idea was that the structure resembles coral plates and the interaction possibility is with the hand movements. We also wanted to use some sort of container with water to generate water refelection around the area of installation with the help of lights. 
+
 <img src="img/ConceptSketch.png" width="450px">
 
 ### Wooden Structure
 
 MDF wooden board 
+
+For the 
 
 #### First cut test
 
