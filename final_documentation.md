@@ -97,11 +97,7 @@ The Boids Rules
 
 #### Movement of boids 
 
-- boids follow a sphere that has moves randomly around the area
-- effect obtained by using noise function/node
-- target is sphere as long as no leapMOtion is connected but if leapmotion is connected the target switches to the users' hand. 
-- obtained by using different nodes for instance math node for mapping the hand movement to the target position 
-- switch for switching the target, which is then addressed in the script 
+As mentioned above the boids follow a sphere that has moves randomly around the area. This effect is obtained by using noise node that is mapped to the transform position of the target. The target is sphere as long as the leap mOtion has no input. If the leap motion is connected the target switches to the users' hand. This functionality is implemented in the script. To get a smooth movement of the boids we used the math node for mapping the right values of the hand input to target's transform.  
 
 <img src="img/toucdesigner_target.png" width="800px">
 
