@@ -78,7 +78,11 @@ Some of our results from the tutorials are as following:
 
 <img src="img/tutorial2.gif" width="450px"> <img src="img/tutorial22.gif" width="328px">
 
+#### Network
+
 For this prototype we used different operators, for example for the shape of the fishes we used Sops operators, for scripting DAT, for redering and postprocessing we used Tops, for target position, movement, and for audio we used Chop operators. 
+
+<img src="img/touchdesigner_nodes.png" width="900px">
 
 ### Boid System
 
