@@ -9,7 +9,7 @@ Collaborators: Marie Scharnagl
 Date: 30.09.2020
 ___
 
-<img src="img/coral_board_prototype-4.jpg"> 
+<img src="img/banner.jpg"> 
 
 - [Abstract](#Abstract)
 - [Concept](#Concept)
