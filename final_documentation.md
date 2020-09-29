@@ -82,7 +82,7 @@ For this prototype we used different operators, for example for the shape of the
 
 The shape of one single fish is a simple sphere. We use a grid and a copy node in order to multiply the sphere to each vertice of the grid. Through this we get the inital number of sphere for the boids. For the behavoiur of the fishes we wrote a python script which is explained in [section Boid System](#Boid_System). The boids follow a target which is a sphere with random postion. This is achieved by using noise node for the trasform of the target sphere. The target is swtiched to the input from leap motion if there is an interaction. We use switch node for this and address it in the script. The sphere are rendered through render node. We used a simple phong material node for the shading. With the feedback node we generate soft trails so that the spheres look similar to fishes. In this first prototype we use a simple mask based on the outline of the coral structure in order to create boundaries. 
 
-### Boid_System
+#### Boid_System
 
 - formula
 The Boids Rules
