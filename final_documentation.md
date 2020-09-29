@@ -7,7 +7,7 @@
 	- [Wooden Structure](#Wooden_Structure)
 	- [Projection Mapping](#Projection_Mapping)
 	- [TouchDesigner](#TouchDesigner)
-		- [Network](#Network)
+		- [Node System](#Node_System)
 		- [Boid System](#Boid_System)
 		- [Movement of boids](#Movement_of_boids)
 		- [Boundarties for projection](#Boundarties_for_projection)
@@ -89,7 +89,7 @@ Some of our results from the tutorials are as following:
 
 <img src="img/tutorial2.gif" width="450px"> <img src="img/tutorial22.gif" width="328px">
 
-#### Network
+#### Node_System
 
 For this prototype we used different operators, for example for the shape of the fishes we used Sops operators, for scripting DAT, for redering and postprocessing we used Tops, for target position, movement, and for audio we used Chop operators. 
 
