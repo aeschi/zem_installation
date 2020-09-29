@@ -141,10 +141,6 @@ The main interaction for this prototype is hand movement which influences the di
 		switchTarget.par.indexfirst = 0
 		target = np.array([targetOP[0].eval(),targetOP[1].eval(),targetOP[2].eval()])
 ```
-
-### Testing
-
-
 ## Results
 
 ### First Prototype
