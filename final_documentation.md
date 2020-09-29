@@ -103,6 +103,8 @@ The Boids Rules
 - obtained by using different nodes for instance math node for mapping the hand movement to the target position 
 - switch for switching the target, which is then addressed in the script 
 
+<img src="img/toucdesigner_target.png" width="800px">
+
 #### Boundarties for projection
 
 Instead of using an external projection mapping software we decided to make a mask in TouchDesigner and use it as a projection area. The movement of the boids are restricted to this mask. The direction of movement changes if the fishes get closer to the boundaries. 
