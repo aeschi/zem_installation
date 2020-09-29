@@ -26,7 +26,7 @@ Through this installtion we want to bring attention to the human impact on marin
 
 Human activities affect marine ecosystems as a result of pollution, overfishing, oil spills, and acidification, which lead to the extinction of marine species and have major effect on the biodiversity of marine life forms. The effect on the ecosystem can be noticed through the rapid worldwide decline in coral reefs. Coral reefs are the most diverse marine ecosystems on earth, giving shelter to thousands of animal species. They account for one-third of all biodiversity in the oceans and are vital to humanity. As a result of human influence, over [50 percent](http://www.secore.org/site/corals/detail/why-coral-reefs-need-our-help.23.html) of the world’s coral reefs have died in the last 30 years and up to 90 percent may die within the next century. 
 
-**Acropora Hyacinthus coral plates**
+*Acropora Hyacinthus coral plates*
 
 <img src="http://www.coralsoftheworld.org/media/images/0036_C04_01.jpg" width="400px"> <img src="http://www.coralsoftheworld.org/media/images/0036_C01_01.jpg" width="446px">
 
@@ -38,7 +38,7 @@ In this prototype the human influence on nature is represented through the hand 
 
 From the very beginning it was clear to us that we wanted to address the topic of climate change or human impact on different ecosystems. For brainstorming and to make a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalising our concept as well as for resource management. After the intital brainstorming sesssion we decided on implementing visuals in TouchDesigner, since both of us wanted to get in touch with this tool. For the interaction we thought of using either Kinect or LeapMotion. 
 
-**Miro Board**
+*Miro Board*
 
 <img src="https://i.imgur.com/NNzbiLh.png" width="900px">
 
@@ -95,7 +95,7 @@ Some of our results from the tutorials are as following:
 
 For this prototype we used different operators, for example for the shape of the fishes we used Sops operators, for scripting DAT, for redering and postprocessing we used Tops, for target position, movement, and for audio we used Chop operators. 
 
-**Node network in touchDesigner**
+*Node network in touchDesigner*
 
 <img src="img/touchdesigner_nodes.png" width="900px">
 
@@ -116,7 +116,7 @@ The Boids Rules
 
 As mentioned above the boids follow a sphere that has moves randomly around the area. This effect is obtained by using noise node that is mapped to the transform position of the target. The target is sphere as long as the leap mOtion has no input. If the leap motion is connected the target switches to the users' hand. This functionality is implemented in the script. To get a smooth movement of the boids we used the math node for mapping the right values of the hand input to target's transform.  
 
-**Nodes for the target**
+*Nodes for the target*
 
 <img src="img/toucdesigner_target.png" width="800px">
 
@@ -124,7 +124,7 @@ As mentioned above the boids follow a sphere that has moves randomly around the 
 
 Instead of using an external projection mapping software we decided to make a mask in TouchDesigner and use it as a projection area. The movement of the boids are restricted to this mask. The direction of movement changes if the fishes get closer to the boundaries. 
 
-**Nodes for the mask**
+*Nodes for the mask*
 
 <img src="img/touchdesigner_mask.png" width="800px">
 
@@ -132,15 +132,15 @@ Instead of using an external projection mapping software we decided to make a ma
 
 The main interaction for this prototype is hand movement which influences the direction of the fishes. The user can steer the fish swarms by moving the hand sideways or forward/backwards. In touchDesigner we used the leap motion node to get leap motion input. It has several channels such as hand detection or each finger. For the prototype We decided to use finger input since the values for finger detection are more precise. We used select and math node to map the x axis and z axis values of the finger to the targer x and y position. Target is either random or if there is a leap motion input it's the finger position. The switch between the target is realized through switch node and python scripting. 
 
-**Interaction sketch**
+*Interaction sketch*
 
 <img src="img/InteractionSketch.jpg" width="450px">
 
-**Interaction nodes**
+*Interaction nodes*
 
 <img src="img/tocuhdesigner_interaction.png" width="800px">
 
-**code snippet for interaction**
+*code snippet for interaction*
 
 ```python
 	leap = op('leapmotion')[2]
