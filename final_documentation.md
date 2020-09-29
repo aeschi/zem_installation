@@ -84,7 +84,9 @@ For this prototype we used different operators, for example for the shape of the
 
 <img src="img/touchdesigner_nodes.png" width="900px">
 
-### Boid System
+The shape of one single fish is a simple sphere. We use a grid and a copy node in order to multiply the sphere to each vertice of the grid. Through this we get the inital number of sphere for the boid. For the behavoiur of the fishes we wrote a python script which is explained in [section Boid System](#Boid_System). 
+
+### Boid_System
 
 - formula
 The Boids Rules
