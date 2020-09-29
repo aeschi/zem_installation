@@ -38,15 +38,17 @@ This is the first concept sketch we came up with. The idea was that the structur
 
 ### Wooden Structure
 
-MDF wooden board 
-
-For the 
+We collaborated with **Marie Scharnagl** a capenter apprentice. With her we discussed about using different materials and decided to use MDF wooden boards for the structure for several reasons. It is for once cost-saving and we could use leftover material from Marie's workshop. Also, MDF is softer than other wooden materials, which is optimal for cutting the curves and digonal edges that we wanted. As mentioned above the plates are cut in the form of coral plates that are stacked on top of each other. We discussed different factors regarding the design, e.g how many plates we wanted to use, how they are distributed, waht size they have. We decided on using less plates but in bigger sizes so that we have a larger projection field which provides us with a continuous projection area. The distance in height between the plates was also an importatn aspect for the continuous projection and to avoid interruption. For the color we decided to use semi-glossy black paint to get a high contrast and enuough reflection for the projection.
 
 #### First cut test
+
+The first test plate can be seen in the figure below. We tested different aspects regarding the material, form, and thickness of the plate. 
 
 <img src="img/coral_test_1.jpg" width="400px"> <img src="img/coral_test_2.jpg" width="400px">
 
 #### Assembly
+
+After the paint was dry we assembled all the plates and mounted them on four table legs in order to get necessary height. For now we used non-adustable legs but in the future we would like to substitute it with telescope desk legs, so that the height of the structure can be adjusted accordingly. 
 
 <img src="img/coral_board_montage-2.jpg" width="400px"> <img src="img/coral_board_montage-1.jpg" width="400px">
 
@@ -58,7 +60,7 @@ For the
 
 ### Projection Mapping
 
-In order to get optimal visual results we tested the projection on different surfaces and color. The best results we achieved were on dark surfaces, hence it was decided to paint the MDF boards in black paint. 
+In order to get optimal visual results we tested the projection on different surfaces and color. The best results we achieved were on dark surfaces, hence it was decided to paint the MDF boards in black semi-glossy paint. 
 
 <img src="https://i.imgur.com/2mLZfZm.jpeg" width="450px"> <img src="https://i.imgur.com/YqZbnZ3.jpeg" width="450px">
 
