@@ -50,23 +50,23 @@ The first test plate can be seen in the figure below. We tested different aspect
 
 After the paint was dry we assembled all the plates and mounted them on four table legs in order to get necessary height. For now we used non-adustable legs but in the future we would like to substitute it with telescope desk legs, so that the height of the structure can be adjusted accordingly. 
 
-<img src="img/coral_board_montage-2.jpg" width="400px"> <img src="img/coral_board_montage-1.jpg" width="400px">
+<img src="img/coral_board_montage-1.jpg" width="400px"> <img src="img/coral_board_montage-3.jpg" width="400px">
 
-<img src="img/coral_board_montage-3.jpg" width="400px"> <img src="img/coral_board_montage-4.jpg" width="400px">
+<img src="img/coral_board_montage-4.jpg" width="400px"> <img src="img/coral_board_montage-6.jpg" width="400px"> 
 
-<img src="img/coral_board_montage-6.jpg" width="400px"> <img src="img/coral_board_montage-7.jpg" width="400px">
-
-<img src="img/coral_board_montage-5.jpg" width="400px">
+<img src="img/coral_board_montage-7.jpg" width="400px"> <img src="img/coral_board_montage-5.jpg" width="400px">
 
 ### Projection Mapping
 
-In order to get optimal visual results we tested the projection on different surfaces and color. The best results we achieved were on dark surfaces, hence it was decided to paint the MDF boards in black semi-glossy paint. 
+In order to get optimal visual results we tested the projection on different surfaces and color. The best results in terms of contrast and reflectivity we achieved were on dark surfaces, hence it was decided to paint the MDF boards in black semi-glossy paint. We also had to make sure that the projector had enough lumen since black surfaces require more light intensity. 
+
+Below are the first test results on a darker surface for distance (1.1m distance for 50" projection) with Epson TW-650 projector.
 
 <img src="https://i.imgur.com/2mLZfZm.jpeg" width="450px"> <img src="https://i.imgur.com/YqZbnZ3.jpeg" width="450px">
 
 ### TouchDesigner
 
-In order to get familiar with TouchDesigner we followed [several tutorials](https://www.youtube.com/watch?v=Z_WfldiO6HI&list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz), that included working with different operators such as TOP, CHOP, SOP, MAT, DAT, and COMP. Different types of operators are used for different purposes and classes, for example, **TOPs** are texture operators and work with 2D imagery (pixels), videos, 2D shapes, and text. **CHOP** are channel operators and work with data/signals. **SOP** are surface operators and are used for 3D geometry. **MAT** are material operators and **DAT** are used for scripts. texts and GLSL. Last but not least are COMP, they are a combination of several operators and include elements such as camera, light, animation, etc. 
+In order to get familiar with TouchDesigner we followed [several tutorials](https://www.youtube.com/watch?v=Z_WfldiO6HI&list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz), that included working with different operators such as TOP, CHOP, SOP, MAT, DAT, and COMP. Different types of operators are used for different purposes and classes, for example, **TOPs** are texture operators and work with 2D imagery (pixels), videos, 2D shapes, and text. **CHOPs** are channel operators and work with data/signals. **SOPs** are surface operators and are used for 3D geometry. **MATs** are material operators and **DATs** are used for scripts, texts, and GLSL. Last but not least are COMP, they are a combination of several operators and include elements such as camera, light, animation, etc. 
 
 Some of our results from the tutorials are as following:
 
