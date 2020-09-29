@@ -10,7 +10,7 @@
 		- [Node System](#Node_System)
 		- [Boid System](#Boid_System)
 		- [Movement of boids](#Movement_of_boids)
-		- [Boundarties for projection](#Boundarties_for_projection)
+		- [Boundaries for projection](#Boundaries_for_projection)
 		- [Interaction](#Interaction)
 - [Results](#Results)		
 - [Project Reflection & Discussion](#Project_Reflection_and_Discussion)
@@ -26,7 +26,7 @@ Through this installtion we want to bring attention to the human impact on marin
 
 Human activities affect marine ecosystems as a result of pollution, overfishing, oil spills, and acidification, which lead to the extinction of marine species and have major effect on the biodiversity of marine life forms. The effect on the ecosystem can be noticed through the rapid worldwide decline in coral reefs. Coral reefs are the most diverse marine ecosystems on earth, giving shelter to thousands of animal species. They account for one-third of all biodiversity in the oceans and are vital to humanity. As a result of human influence, over [50 percent](http://www.secore.org/site/corals/detail/why-coral-reefs-need-our-help.23.html) of the world’s coral reefs have died in the last 30 years and up to 90 percent may die within the next century. 
 
-#### Acropora Hyacinthus coral plates
+**Acropora Hyacinthus coral plates**
 
 <img src="http://www.coralsoftheworld.org/media/images/0036_C04_01.jpg" width="400px"> <img src="http://www.coralsoftheworld.org/media/images/0036_C01_01.jpg" width="446px">
 
@@ -38,12 +38,14 @@ In this prototype the human influence on nature is represented through the hand 
 
 From the very beginning it was clear to us that we wanted to address the topic of climate change or human impact on different ecosystems. For brainstorming and to make a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalising our concept as well as for resource management. After the intital brainstorming sesssion we decided on implementing visuals in TouchDesigner, since both of us wanted to get in touch with this tool. For the interaction we thought of using either Kinect or LeapMotion. 
 
+**Miro Board**
+
 <img src="https://i.imgur.com/NNzbiLh.png" width="900px">
 
 
 <img src="https://i.imgur.com/sv5iPi8.png" width="900px">
 
-#### Concept sketch 
+**Concept sketch** 
 
 This is the first concept sketch we came up with. The idea was that the structure resembles coral plates and the interaction possibility is with the hand movements. We also wanted to use some sort of container with water to generate water refelection around the area of installation with the help of lights. 
 
@@ -53,13 +55,13 @@ This is the first concept sketch we came up with. The idea was that the structur
 
 We collaborated with **Marie Scharnagl** a capenter apprentice. With her we discussed about using different materials and decided to use MDF wooden boards for the structure for several reasons. It is for once cost-saving and we could use leftover material from Marie's workshop. Also, MDF is softer than other wooden materials, which is optimal for cutting the curves and digonal edges that we wanted. As mentioned above the plates are cut in the form of coral plates that are stacked on top of each other. We discussed different factors regarding the design, e.g how many plates we wanted to use, how they are distributed, waht size they have. We decided on using less plates but in bigger sizes so that we have a larger projection field which provides us with a continuous projection area. The distance in height between the plates was also an importatn aspect for the continuous projection and to avoid interruption. For the color we decided to use semi-glossy black paint to get a high contrast and enuough reflection for the projection.
 
-#### First cut test
+**First cut test**
 
 The first test plate can be seen in the figure below. We tested different aspects regarding the material, form, and thickness of the plate. 
 
 <img src="img/coral_test_1.jpg" width="400px"> <img src="img/coral_test_2.jpg" width="400px">
 
-#### Assembly
+**Assembly**
 
 After the paint was dry we assembled all the plates and mounted them on four table legs in order to get necessary height. For now we used non-adustable legs but in the future we would like to substitute it with telescope desk legs, so that the height of the structure can be adjusted accordingly. 
 
@@ -93,6 +95,8 @@ Some of our results from the tutorials are as following:
 
 For this prototype we used different operators, for example for the shape of the fishes we used Sops operators, for scripting DAT, for redering and postprocessing we used Tops, for target position, movement, and for audio we used Chop operators. 
 
+**Node network in touchDesigner**
+
 <img src="img/touchdesigner_nodes.png" width="900px">
 
 The shape of one single fish is a simple sphere. We use a grid and a copy node in order to multiply the sphere to each vertice of the grid. Through this we get the inital number of sphere for the boids. For the behavoiur of the fishes we wrote a python script which is explained in [section Boid System](#Boid_System). The boids follow a target which is a sphere with random postion. This is achieved by using noise node for the trasform of the target sphere. The target is swtiched to the input from leap motion if there is an interaction. We use switch node for this and address it in the script. The sphere are rendered through render node. We used a simple phong material node for the shading. With the feedback node we generate soft trails so that the spheres look similar to fishes. In this first prototype we use a simple mask based on the outline of the coral structure in order to create boundaries. 
@@ -112,11 +116,15 @@ The Boids Rules
 
 As mentioned above the boids follow a sphere that has moves randomly around the area. This effect is obtained by using noise node that is mapped to the transform position of the target. The target is sphere as long as the leap mOtion has no input. If the leap motion is connected the target switches to the users' hand. This functionality is implemented in the script. To get a smooth movement of the boids we used the math node for mapping the right values of the hand input to target's transform.  
 
+**Nodes for the target**
+
 <img src="img/toucdesigner_target.png" width="800px">
 
-#### Boundarties_for_projection
+#### Boundaries_for_projection
 
 Instead of using an external projection mapping software we decided to make a mask in TouchDesigner and use it as a projection area. The movement of the boids are restricted to this mask. The direction of movement changes if the fishes get closer to the boundaries. 
+
+**Nodes for the mask**
 
 <img src="img/touchdesigner_mask.png" width="800px">
 
@@ -124,9 +132,15 @@ Instead of using an external projection mapping software we decided to make a ma
 
 The main interaction for this prototype is hand movement which influences the direction of the fishes. The user can steer the fish swarms by moving the hand sideways or forward/backwards. In touchDesigner we used the leap motion node to get leap motion input. It has several channels such as hand detection or each finger. For the prototype We decided to use finger input since the values for finger detection are more precise. We used select and math node to map the x axis and z axis values of the finger to the targer x and y position. Target is either random or if there is a leap motion input it's the finger position. The switch between the target is realized through switch node and python scripting. 
 
+**Interaction sketch**
+
 <img src="img/InteractionSketch.jpg" width="450px">
 
+**Interaction nodes**
+
 <img src="img/tocuhdesigner_interaction.png" width="800px">
+
+**code snippet for interaction**
 
 ```python
 	leap = op('leapmotion')[2]
@@ -141,6 +155,7 @@ The main interaction for this prototype is hand movement which influences the di
 		switchTarget.par.indexfirst = 0
 		target = np.array([targetOP[0].eval(),targetOP[1].eval(),targetOP[2].eval()])
 ```
+
 ## Results
 
 ### First Prototype
