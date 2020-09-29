@@ -19,8 +19,6 @@ In this prototype the human influence on nature is represented through the hand 
 
 ## Implementation
 
-**How did you do it? Pipeline, execution details, etc.**
-
 ### Idea Development
 
 From the very beginning it was clear to us that we wanted to address the topic of climate change or human impact on different ecosystems. For brainstorming and to make a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalising our concept as well as for resource management. After the intital brainstorming sesssion we decided on implementing visuals in TouchDesigner, since both of us wanted to get in touch with this tool. For the interaction we thought of using either Kinect or LeapMotion. 
@@ -133,8 +131,6 @@ The main interaction for this prototype is hand movement which influences the di
 
 
 ## Results
-
-**Documentation of your result(s), e.g. images.**
 
 ### First Prototype
 
