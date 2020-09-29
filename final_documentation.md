@@ -1,5 +1,12 @@
 # Documentation
 
+ZEM (working title)
+
+Authors: Zainab Tariq, Anna Eschenbacher
+
+Collaborators: Marie Scharnagl
+___
+
 - [Abstract](#Abstract)
 - [Concept](#Concept)
 - [Implementation](#Implementation)
