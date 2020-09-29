@@ -24,6 +24,9 @@ ___
 - [Results](#Results)		
 - [Project Reflection & Discussion](#Project_Reflection_and_Discussion)
 - [Lessons Learned](#Lessons_Learned)
+
+<img src="img/coral_board_prototype-4.jpg" width="900px"> 
+
 ## Abstract
 
 **What was the whole project about, what did you archive...**
@@ -172,15 +175,15 @@ The main interaction for this prototype is hand movement which influences the di
 
 ### First Prototype
 
+<img src="img/coral_board_prototype-4.jpg" width="900px"> 
+
 <img src="img/coral_board_prototype-1.jpg" width="450px"> <img src="img/coral_board_prototype-7.jpg" width="450px">
 
-<img src="img/coral_board_prototype-2.jpg" width="800px">
+<img src="img/coral_board_prototype-2.jpg" width="900px">
 
-<img src="img/coral_board_prototype-4.jpg" width="800px"> 
+<img src="img/coral_board_prototype-12.jpg" width="900px">
 
-<img src="img/coral_board_prototype-12.jpg" width="800px">
-
- <img src="img/coral_board_prototype-9.jpg" width="800px"> 
+ <img src="img/coral_board_prototype-9.jpg" width="900px"> 
 
 
 ## Project_Reflection_and_Discussion
