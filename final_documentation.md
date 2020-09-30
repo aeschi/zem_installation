@@ -30,26 +30,26 @@ ___
 
 ## Abstract
 
-This project is an interactive installation which addresses the topic of human impact on marine ecosystem. We tackle the issue regarding the degradation of coral reefs and with it the extinction of marine species. The installation concists of a wooden structure that resembles coral plates that are layered on top of each other. Fish like organisms are projected on the horizontal area of the wooden structure. The user can interact with these organisms with their hand movements.  
+This project is an interactive installation that addresses the topic of human impact on the marine ecosystem. We tackle the issue regarding the degradation of coral reefs and with it the extinction of marine species. The installation consists of a wooden structure that resembles coral plates that are layered on top of each other. Fish like organisms are projected on the horizontal area of the wooden structure. The user can interact with these organisms with their hand movements. 
 
 ## Concept
 
-The main concept for this project was to do an interactive installation, which concists of a wooden structure as projection surface. The projected visuals are abstract schools of fish. When the audience approaches the installation the fishes react according to the hand movement of the user. 
-Through this installtion we want to bring attention to the human impact on marine ecosystem, in this case on coral reefs and it's inhabitants. This is also depicted in the form of the structure, which resemebles coral reefs, more specifically Acropora Hyacinthus coral plates. 
+The main concept for this project was to do an interactive installation, which consists of a wooden structure as a projection surface. The projected visuals are abstract schools of fish. When the audience approaches the installation the fishes react according to the hand movement of the user. 
+Through this installation, we want to bring attention to the human impact on the marine ecosystem, in this case on coral reefs and it's inhabitants. This is also depicted in the form of the structure, which resembles coral reefs, more specifically Acropora Hyacinthus coral plates. 
 
-Human activities affect marine ecosystems as a result of pollution, overfishing, oil spills, and acidification, which lead to the extinction of marine species and have major effect on the biodiversity of marine life forms. The effect on the ecosystem can be noticed through the rapid worldwide decline in coral reefs. Coral reefs are the most diverse marine ecosystems on earth, giving shelter to thousands of animal species. They account for one-third of all biodiversity in the oceans and are vital to humanity. As a result of human influence, over [50 percent](http://www.secore.org/site/corals/detail/why-coral-reefs-need-our-help.23.html) of the world’s coral reefs have died in the last 30 years and up to 90 percent may die within the next century. 
+Human activities affect marine ecosystems as a result of pollution, overfishing, oil spills, and acidification, which lead to the extinction of marine species and have a major effect on the biodiversity of marine life forms. The effect on the ecosystem can be noticed through the rapid worldwide decline in coral reefs. Coral reefs are the most diverse marine ecosystems on earth, giving shelter to thousands of animal species. They account for one-third of all biodiversity in the oceans and are vital to humanity. As a result of human influence, over [50 percent](http://www.secore.org/site/corals/detail/why-coral-reefs-need-our-help.23.html) of the world’s coral reefs have died in the last 30 years and up to 90 percent may die within the next century. 
 
 *Acropora Hyacinthus coral plates*
 
 <img src="http://www.coralsoftheworld.org/media/images/0036_C04_01.jpg" width="400px"> <img src="http://www.coralsoftheworld.org/media/images/0036_C01_01.jpg" width="446px">
 
-In this prototype the human influence on nature is represented through the hand interaction of the viewer, which leads to the movement of the fishes in the the opposite direction, giving an impression of fleeing. More complex forms of interaction are mention in section [Future work](#Future_Work). 
+In this prototype the human influence on nature is represented through the hand interaction of the viewer, which leads to the movement of the fishes in the opposite direction, giving an impression of fleeing. More complex forms of interaction are mention in section [Future work](#Future_Work). 
 
 ## Implementation
 
 ### Idea_Development
 
-From the very beginning it was clear to us that we wanted to address the topic of climate change or human impact on different ecosystems. For brainstorming and to make a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalising our concept as well as for resource management. After the intital brainstorming sesssion we decided on implementing visuals in TouchDesigner, since both of us wanted to get in touch with this tool. For the interaction we thought of using either Kinect or LeapMotion. 
+From the very beginning, it was clear to us that we wanted to address the topic of climate change or human impact on different ecosystems. For brainstorming and making a list of resources we used [Miro board](https://miro.com) since it is excellent for getting an overview and all parties can edit the board. It helped us in finalizing our concept as well as for resource management. After the initial brainstorming session, we decided on implementing visuals in TouchDesigner since both of us wanted to get in touch with this tool. For the interaction, we thought of using either Kinect or LeapMotion. 
 
 *Miro Board*
 
