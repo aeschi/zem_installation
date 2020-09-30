@@ -136,7 +136,7 @@ Some of the values can be manipulated in the node system of touchDesigner, for i
 
 #### Movement_of_boids 
 
-As mentioned above the boids follow a sphere that moves randomly around the area. This effect is obtained by using noise node that is mapped to the transform position of the target. The target is a sphere as long as the leap motion has no input. If the leap motion is connected the target switches to the users' hand. This functionality is implemented in the script. To get a smooth movement of the boids we used the math node for mapping the right values of the hand input to the target's transform.  
+As mentioned above the boids follow a sphere that moves randomly around the area. This effect is obtained by using noise node that is mapped to the transform position of the target. The target is a noise-driven sphere as long as the leap motion has no input. If the leap motion is connected the target switches to the users' hand. This functionality is implemented in the script. To get a smooth movement of the boids we used the math node for mapping the right values of the hand input to the target's transform.  
 
 *Nodes for the target*
 
