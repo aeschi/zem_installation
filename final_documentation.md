@@ -86,11 +86,11 @@ After the paint was dry we assembled all the plates and mounted them on four tab
 
 **Finished Table**
 
-<img src="img/coral_board_table-1.jpg" height="400px"> <img src="img/coral_board_table-2.jpg" height="400px"> 
+<img src="img/coral_board_table-1.jpg" height="470px"> <img src="img/coral_board_table-2.jpg" height="470px"> 
 
 <img src="img/coral_board_table-3.jpg" width="800px">
 
-<img src="img/coral_board_table-4.jpg" height="400px"> <img src="img/coral_board_table-5.jpg" height="400px"> 
+<img src="img/coral_board_table-4.jpg" width="400px"> <img src="img/coral_board_table-5.jpg" width="400px"> 
 
 ### Projection_Mapping
 
@@ -184,6 +184,8 @@ The main interaction for this prototype is hand movement which influences the di
 
 ### First Prototype
 
+**[Video link](https://vimeo.com/463482923)**
+
 <img src="img/coral_board_prototype-4.jpg" width="900px"> 
 
 <img src="img/coral_board_prototype-1.jpg" width="450px"> <img src="img/coral_board_prototype-7.jpg" width="450px">
@@ -192,6 +194,7 @@ The main interaction for this prototype is hand movement which influences the di
 
 <img src="img/coral_board_prototype-12.jpg" width="900px">
 
+too long
  <img src="img/coral_board_prototype-9.jpg" width="900px"> 
 
 
