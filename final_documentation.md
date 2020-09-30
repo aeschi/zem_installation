@@ -30,7 +30,7 @@ ___
 
 ## Abstract
 
-This project is an interactive installation that addresses the topic of human impact on the marine ecosystem. We tackle the issue regarding the degradation of coral reefs and with it the extinction of marine species. The installation consists of a wooden structure that resembles coral plates that are layered on top of each other. Fish like organisms are projected on the horizontal area of the wooden structure. The user can interact with these organisms with their hand movements. 
+This project is an interactive installation that addresses the topic of human impact on the marine ecosystem. We tackle the issue regarding the degradation of coral reefs and with it the extinction of marine species. The installation consists of a wooden structure that resembles coral plates that are layered on top of each other. Fish like organisms are projected on the horizontal area of the wooden structure. The users can interact with these organisms with their hand movements. 
 
 ## Concept
 
