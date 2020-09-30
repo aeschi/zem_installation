@@ -94,7 +94,7 @@ After the paint was dry we assembled all the plates and mounted them on four tab
 
 In order to get optimal visual results, we tested the projection on different surfaces and colors. The best results in terms of contrast and we achieved were on dark surfaces, hence it was decided to paint the MDF boards in black semi-gloss paint for more reflectivity. We also had to make sure that the projector had enough lumen since black surfaces require more light intensity. 
 
-Below are the first test results on a darker surface for distance (1.1m distance for 50" projection) with Epson TW-650 projector.
+Below are the first test results on a darker surface. Minimum distance for 50" projection with Epson TW-650 projector is 110cm.
 
 <img src="https://i.imgur.com/2mLZfZm.jpeg" width="450px"> <img src="https://i.imgur.com/YqZbnZ3.jpeg" width="450px">
 
