@@ -184,6 +184,8 @@ The main interaction for this prototype is hand movement which influences the di
 
 ### First Prototype
 
+[<img src="img/vimeo.jpg" width="900px">](https://vimeo.com/463482923)
+
 **[Video link](https://vimeo.com/463482923)**
 
 <img src="img/coral_board_prototype-4.jpg" width="900px"> 
