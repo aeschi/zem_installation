@@ -56,8 +56,6 @@ From the very beginning, it was clear to us that we wanted to address the topic 
 <img src="https://i.imgur.com/NNzbiLh.png" width="900px">
 
 
-<img src="https://i.imgur.com/sv5iPi8.png" width="900px">
-
 **Concept sketch** 
 
 This is the first concept sketch we came up with. The idea was that the structure resembles coral plates and the interaction possibility is with the hand movements. We also wanted to use some sort of container with water to generate water reflection around the area of installation with the help of lights. 
