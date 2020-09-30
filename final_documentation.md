@@ -62,7 +62,7 @@ From the very beginning, it was clear to us that we wanted to address the topic 
 
 This is the first concept sketch we came up with. The idea was that the structure resembles coral plates and the interaction possibility is with the hand movements. We also wanted to use some sort of container with water to generate water reflection around the area of installation with the help of lights. 
 
-<img src="img/ConceptSketch.png" width="450px">
+<img src="img/ConceptSketch.jpg" width="450px">
 
 ### Wooden_Structure
 
