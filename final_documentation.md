@@ -78,13 +78,19 @@ The first test plate can be seen in the figure below. We tested different aspect
 
 After the paint was dry we assembled all the plates and mounted them on four table legs in order to get the necessary height. For now, we used non-adjustable legs but in the future, we would like to substitute it with telescope desk legs, so that the height of the structure can be adjusted accordingly. 
 
-<img src="img/coral_board_montage-7.jpg" width="800px">
-
 <img src="img/coral_board_montage-1.jpg" width="400px"> <img src="img/coral_board_montage-3.jpg" width="400px">
 
-<img src="img/coral_board_montage-4.jpg" width="400px"> <img src="img/coral_board_montage-6.jpg" width="400px"> 
+<img src="img/coral_board_montage-6.jpg" width="400px"> <img src="img/coral_board_montage-7.jpg" width="400px"> 
 
 <img src="img/coral_board_montage-5.jpg" width="800px">
+
+**Finished Table**
+
+<img src="coral_board_table-1.jpg" height="400px"> <img src="coral_board_table-2.jpg" height="400px"> 
+
+<img src="coral_board_table-3.jpg" width="800px">
+
+<img src="coral_board_table-4.jpg" height="400px"> <img src="coral_board_table-5.jpg" height="400px"> 
 
 ### Projection_Mapping
 
