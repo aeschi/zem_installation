@@ -86,11 +86,11 @@ After the paint was dry we assembled all the plates and mounted them on four tab
 
 **Finished Table**
 
-<img src="coral_board_table-1.jpg" height="400px"> <img src="coral_board_table-2.jpg" height="400px"> 
+<img src="img/coral_board_table-1.jpg" height="400px"> <img src="img/coral_board_table-2.jpg" height="400px"> 
 
-<img src="coral_board_table-3.jpg" width="800px">
+<img src="img/coral_board_table-3.jpg" width="800px">
 
-<img src="coral_board_table-4.jpg" height="400px"> <img src="coral_board_table-5.jpg" height="400px"> 
+<img src="img/coral_board_table-4.jpg" height="400px"> <img src="img/coral_board_table-5.jpg" height="400px"> 
 
 ### Projection_Mapping
 
