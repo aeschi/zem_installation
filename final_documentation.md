@@ -106,7 +106,7 @@ Some of our results from the tutorials are as following:
 
 <img src="img/tutorial1.png" width="450px"> <img src="img/tutorial_1.png" width="450px">
 
-<img src="img/tutorial_2a.jpg" width="450px"> <img src="img/tutorial_2a.jpg" width="450px"> 
+<img src="img/tutorial_2a.jpg" width="450px"> <img src="img/tutorial_2b.jpg" width="450px"> 
 
 <img src="img/tutorial2.gif" width="450px"> <img src="img/tutorial22.gif" width="328px">
 
